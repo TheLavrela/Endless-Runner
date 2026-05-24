@@ -432,6 +432,7 @@
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/RepeatBackground.cs"
 "Assets/Scripts/SpawnManager.cs"
+"Assets/Scripts/git.cs"
 -langversion:9.0
 /deterministic
 /optimize+
